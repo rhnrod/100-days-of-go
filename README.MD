@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge">
-  <img src="https://img.shields.io/github/license/rhnrod/100-days-of-go?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/github/last-commit/rhnrod/100-days-of-go?style=for-the-badge" alt="Last Commit">
 </div>
 
