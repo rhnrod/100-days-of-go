@@ -13,6 +13,6 @@
 <br/>
 
 <div>
-  <p>This repository is destined to share my studies with Go based in the well known project <a href="https://www.100daysofcode.com/">100 Days of Code</a>. The whole path will be done using <a src="https://roadmap.sh/golang">roadmap.sh</a> . If you'd like to go further or try an alternative path, take a look on this <a src="https://www.geeksforgeeks.org/blogs/100-days-of-golang/">Geek for Geeks</a> roadmap.
+  <p>This repository is destined to share my studies with Go based in the well known project <a href="https://www.100daysofcode.com/">100 Days of Code</a>. The whole path will be done using <a href="https://roadmap.sh/golang">roadmap.sh</a> . If you'd like to go further or try an alternative path, take a look on this <a href="https://www.geeksforgeeks.org/blogs/100-days-of-golang/">Geek for Geeks</a> roadmap.
   </p>
 </div>
